@@ -89,7 +89,7 @@ app.get('/', (req, res) => {
   </style>
   </head>
   <body>
-    <h1>🌸 Cute Weather App 🌸</h1>
+    <h1>Sky Cast - Weather App</h1>
     <form id="weatherForm">
       <input type="text" id="cityInput" name="city" placeholder="Enter city name" required />
       <button type="submit">Check Weather</button>
