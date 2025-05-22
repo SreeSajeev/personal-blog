@@ -1,2 +1,2 @@
-# personal-blog
-First Backend project for personal blog
+# Weather App
+First Backend project for weather app
